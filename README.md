@@ -24,12 +24,10 @@ Our Python for Testers course stands out because it delivers more than just Pyth
 ## Your Success is Our Goal
 We're committed to your satisfaction and success. If, for any reason, you're not satisfied with this course, we offer a 30-day money-back guarantee, in accordance with Udemy's Terms of Use. We're continually updating our course content to keep it relevant, and your questions will always be answered promptly.
 
-Embark on your journey in Python test automation today with "Python: The Complete Guide for Software Testers". Your future in software testing starts here. 
+Today, embark on your journey in Python test automation with "Python: The Complete Guide for Software Testers". Your future in software testing starts here. 
 
 The link to the course will be added later.
 
 Checkout my other automation testing courses here https://practicetestautomation.com/courses/
 
 Bestseller "XPath locators for Selenium" course - https://www.udemy.com/course/xpath-locators-for-selenium/?referralCode=ACB28329B5AC2333DDCC/
-
-To take your automation testing skills to the next level, consider enrolling in the "Advanced Selenium WebDriver with Java and TestNG" course - https://www.udemy.com/course/advanced-selenium-webdriver/?referralCode=3B2C78FCD0550DEA0920/
